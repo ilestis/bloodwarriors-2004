@@ -1,0 +1,15 @@
+<strong>À quoi sert les paysans?</strong><br />
+:: Les paysans est l'essence de votre province. Plus vous avez de paysans, plus vous pouvez produire de ressources, construire de bâtiment, etc...
+<br /><br />
+
+<strong>Comment posseder des paysans?</strong><br />
+:: Au début, vous en possedez 30. Vous pouvez augmenter votre nombre de paysans en en placant dans les Foyer. 2 paysans rapportent un nouveau né, qui sera adulte le tour suivant.
+<br /><br />
+
+<strong>Dispose-je d'une limite de paysans?</strong><br />
+:: Oui. Votre limite est par défaut à 50. Cependant, vous pouvez construire des bâtiments qui augmentent cette limite.
+<br /><br />
+
+<strong>Combien de temps prennent mes paysans pour récolter de l'or, du bois, etc...?</strong><br />
+:: Au début, vos paysans prendront 24heures. Une fois ces 24heures écroulées, vos paysans reviendront avec les ressources récoltées. Vous pouvez diminuer le temps qu'ils prennent pour travailler en construisant une [École][Village] (diminution de 2heures), et d'un [Collège][Ville].
+<br /><br />

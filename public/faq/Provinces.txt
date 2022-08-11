@@ -1,0 +1,11 @@
+<strong>Qu'est-ce que ma province?</strong><br />
+:: Votre province est le territoire que vous disposez.
+<br /><br />
+
+<strong>Village, ville, cité, métropole? Qu'est-ce?</strong><br />
+:: Au début, votre province est au stade de village. Mais des que vous aurez construit tous les bâtiments du village, un bouton [Ville] apparaitera dans votre panneau de construction de bâtiments. En débloquant la ville, vous débloquez une panoplie de nouveaux bâtiments.
+<br /><br />
+
+<strong>Comment nommer ma province?</strong><br />
+:: Par défaut, votre province possède le nom [NoName]. Il suffit d'aller sur la page [Province] (dans la barre de naviguation à gauche, une fois connecté) pour changer le nom de celle-ci.
+<br /><br />

@@ -1,0 +1,11 @@
+<strong>Comment attaquer une province ennemie?</strong><br />
+:: Il faut d'abord posseder des unités. Pour engager des unités (qui ne sont pas comptabilisées comme des paysans), il faut préalablement construire le [Fort][Village]. Vous pourrez ensuite en engager, puis attaquer une province à travers le menu de la page [Guerres].
+<br /><br />
+
+<strong>Combien de temps dure une guerre?</strong><br />
+:: Le temps est calculé par rapport à la distance entre les deux joueurs (règles de pythagore) avec au minimum 3heures.
+<br /><br />
+
+<strong>À quoi servent les techniques?</strong><br />
+:: Dépendant de votre choix d'attaque et du choix de defense de l'ennemi, des bonnus aux assaillants ou aux defenseurs seront octroyés.
+<br /><br />

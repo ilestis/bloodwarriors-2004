@@ -1,0 +1,21 @@
+Cible:
+1: soit province
+2: ennemi province
+3: random
+
+type:
+1: sort directe
+2: sort indirecte (ajout dans temp_sort)
+
+affecte (type == 1):
+1: or
+2: champs
+3: bois
+4: pierre
+5: magie
+6: cases
+
+10: batiment
+
+affecte (type == 2):
+1: unites

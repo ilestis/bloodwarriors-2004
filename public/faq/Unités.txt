@@ -1,0 +1,33 @@
+<strong>Qu'est-ce qu'une unité?</strong><br />
+:: Une unité peut être compris comme un soldat ou une créature.
+<br /><br />
+
+<strong>À quoi servent-elle?</strong><br />
+:: Les unités servent à attaquer d'autres provinces et à protéger les votres.
+<br /><br />
+
+<strong>Comment puis-je acquérire une unité?</strong><br />
+:: Il faut d'abord construire le [Village][Fort]. Après, un lien "Fort" apparaîtera dans votre menu de naviguation à gauche.
+<br /><br />
+
+<strong>À quoi correspond les chiffres entres crochets?</strong><br />
+:: [Force][Endurance][Attaque][Défense].<br />
+Lorsque qu'une unité attaque une province ennemie, la [Force] et [Attaque] sont additionnés, et cela représante sa [Puissance]. Sa [Vie] est calculée par par l'[Endurance].<br />
+Lorsqu'une créature défend une province, sa [Puissance] est calculée par sa [Force], et sa vie est calculée par l'addition de l'[Endurance] et de la [Defense]. (<a href="index.php?p=faq&article=Guerres">Voir Guerres</a>)
+<br /><br />
+
+<strong>Que signifie sacrifice?</strong><br />
+:: Lorsqu'une créature est en sacrifice, elle defendra votre province d'attaques ennemies. Une créature sans sacrifice ne sera pas selectionnée pour defendre.
+<br /><br />
+
+<strong>Type?</strong><br />
+:: Pour facilité l'engagement d'unités, les unités ont été séparées en 3 types.<br />
+[A] Attaque: Une unité est plus faite pour l'attaque.<br />
+[P] Polyvalente: Une unité est polyvalente est est faite pour attaquer comme pour défendre.<br />
+[D] Défense: Une unité particulièrement puissante en [Endurance] et [Défense], la rendant utile pour la défense de votre province.
+<br /><br />
+
+<strong>Entretient=</strong><br />
+:: Le chiffre de l'entretrient représente le coût, en or, que l'unité vous demandera chaque tour. Ce calcule est effectué tous les jours à 05h du matin, heure de Genève (GMT+01). Si vous n'avez pas de quoi payer une unités, celle si vous quittera.<br />
+<font color="red">Pour des raisons de simplicité, l'entretient a été désactivé pour l'instant.</font>
+<br /><br />

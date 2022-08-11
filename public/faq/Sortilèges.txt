@@ -1,0 +1,11 @@
+<strong>Qu'est-ce qu'un sortilège?</strong><br />
+:: Un sortilège est une action magique.
+<br /><br />
+
+<strong>Comment les utiliser?<br /></strong>
+:: Il faut construire la Sorcellerie [Ville].
+<br /><br />
+
+<strong>Que fait un sortilège?<br /></strong>
+:: Il y a de nombeux sortilèges, tous avec des effets différent! Cependant ils coûtent tous une somme de magie.
+<br /><br />

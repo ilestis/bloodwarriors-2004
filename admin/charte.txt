@@ -1,0 +1,45 @@
+<?php
+
+$sCharte = "CHARTE BLOOD WARRIORS
+
+
+
+Avant de vous inscrire, il est pr&eacute;alable que vous lisiez ces consignes sur le d&eacute;roulement du jeu et du comportement à ad&eacute;rher pour y jouer.
+
+
+
+Il est stricement interdit d'avoir plusieurs comptes, Les places sont limit&eacute;es donc pour que tout le monde puisse avoir une chance de jouer il ne faut pas avoir plusieurs comptes.
+
+Quiquonc rep&eacute;r&eacute; avec plusieurs comptes se verra imm&eacute;diatement faire supprimer TOUS ses comptes et sera banni du site pour une certaine dur&eacute;e.
+
+
+
+Le respect est maître cl&eacute; pour un bon d&eacute;roulement dans le jeu. Celui qui insultes, est irrespectueux envers un autre joueur ou provoque sera punni de la manière que les admins semblent bon.
+
+
+
+La compr&eacute;hension est aussi un atout majeur dans un jeu! Nous vous prions d'&eacute;crire convenablement! Les petites fautes d'orthographes sont pas bien graves, mais la ponctuation est très importante pour la compr&eacute;hension d'une phrase. De même, le langague SMS et Abr&eacute;vi&eacute;g&eacute; n'est pas la bienvenue ici. Ce n'est pas parce que vous êtes sur l'internet qu'il faut &eacute;crire comme un enfant de 5 ans qui &eacute;crit sur le clavier avec une paire de muffles!
+
+
+
+La tricherie r&eacute;sult au bannisement. Si vous trouvez une faille dans le systeme, avertissez-le directement sur le forum et en envoyant un message priv&eacute; à Escape.
+
+
+Les comptes sont actuellements automatiquement activ&eacute; à l'inscription. Si un taux de tricherie est atteind, les inscriptions seront verifi&eacute;es par les administrateurs et mod&eacute;rateurs.
+
+
+
+Nous &eacute;sp&eacute;rons que ces quelques règles vous conviennent. Dans le cas contraire, rien ne vous oblige à vous inscrire. L'&eacute;quipe des admins, des mod&eacute;rateurs et moi &eacute;sp&eacute;rons que vous passerez un bon moment sur le jeu de Blood Warriors.
+
+ 
+
+Pour des raisons de securit&eacute;, les admins ont accès à vos messages priv&eacute;s, vos forums, votre login et votre mot de passe en cas de besoins. 
+
+
+
+Merci d'accepter ces règles.
+
+
+
+Les Admins";
+?>

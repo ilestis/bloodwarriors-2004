@@ -1,0 +1,126 @@
+BW TO DO:
+ Envoit: TENTE!
+ Script automatique: Mail quand pas connecté depuis plus de 5jours si pas vacances. del après 7 jours.
+ SORTS: Automatiser?
+
+ Bugs:
+  Marché: Echange paysans
+
+--
+
+Sorts spéciaux sorciers
+
+// Chaque race à un chant, qui dure 1heures et qui coute 150magie. Peut être lancé sur alliés guilde
+Ange: 	 Chant Angélique	+0+1+0+1
+Barbare: Chant des Barbares.	+50% de dégâts aux bâtiments
+Démon: 	 Chant Démoniaque	+0+0+2+0
+Elfe: 	 Chant Elfique		Cout de nourriture des unités 75%
+Rebelle: Chant de rassemblement	Temps de guerre 80%.
+Sorcier: Chant de concentration	Couts des sorts à 80%
+
+// Et chaque chant a son égale en Cri pour les mêmes effets mais inversés. Sur ennemis
+Ange: 	 Cri Angélique		+0-1+0-1
+Barbare: Cri des Barbares.	-50% de dégâts aux bâtiments
+Démon: 	 Cri Démoniaque		+0+0-2+0
+Elfe: 	 Cri Elfique		Cout de nourriture des unités 125%
+Rebelle: Cri du désordre	Temps de guerre 120%.
+Sorcier: Cri de déconcentration	Couts des sorts à 120%
+
+OK] 42 - Paralysie: Province ciblée ne peux pas lancer de guerre pendant 1 heure
+OK] 43 - Hypnose: Province ciblée ne peux pas lancer de sorts pendant 1 heure.
+Fatigue: Les unités en guerre/retour/envoit de la province ciblées mettent 1heure de plus à excécuter leur action.
+Mutinerie: Sort qui tue la moitié des esclaves d'une province ciblée.  -> Que rebelles?
+Sacrifice: sort qui double les revenus des esclaves mais les tues tous au retour.
+Aimant magique: le prochain sort qui vous cible fait son effet, mais la magie de la province assaillante perd 100 magie.
+
+Lvl 4:
+Temple:			+310 paysans		: OK
+Arène:			+Unités dragon		: OK
+Bibliothèque:		+new sorts		: OK
+Garnison:		+new unités		: OK
+Muraille Enchantée:	+Murailles granit	: OK
+Chateau			+High score & Img	: OK
+Tour d'observation	+voir sorts en réserve	: OK
+Grand Entrepôt		+Ressources plus 1000	: OK
+CdAE			+Voit toutes les unités	: OK
+
+
+provinces:
+type_province: 
+0) first
+1) crêche
+2) conquête
+
+Sorts:
+1) Force
+2) Defense
+3) Ville
+4) +x+x+0+0
+5) +x+x+x+x
+8) Protection
+9) Aimant magique
+10) Protection? XD
+11) Spécial / Unique
+3x) Guerres
+30) War speed
+31) war bati damage
+32) Block war
+33) Block spell
+
+
+Sorcellerie: 10
+Université: 7
+Bibliothèque: 5
+
+
+Honneur - Diminue par deux la satisfaction perdue lors d'une défaite.
+Couverture de guerre - Diminue votre puissance de 500 pendant 1 heure.
+Cachette - Si on se fait attaquer et qu'on se fait envahir, on perd moins de paysans.
+Fécondité magique - Vos paysannes accouchent de jumaux pour les prochaines 24h
+
+
+
+OK - Sainte-aura - Redonne 10% de satisfaction à l'une de vos provinces
+
+Tremblement de terre - diminue de 50% l'efficacité des bâtiments défensifs pour les prochaines 24h
+Bouclier - renvoie le prochain sort qui vous est lancé sur votre adversaire
+Spirale de mana - le prochain sort qui vous est lancé fait son effet normal, mais votre réserve de magie est augmentée du cout de ce sort
+Voile magique - fait disparaitre votre drapeau de la carte pour 8h
+Couverture de guerre - Diminue votre puissance de 500 pendant 1 heure.
+
+mysql_insert_id();
+
+
+Bonnus:
+
+ Anges:
+  [ok] 2 paysans au foyer = 2 paysans en maternelle
+  [ok] Temps des sort en réserve augmentés
+	+0+2+0+2
+
+ Barbares:
+  [ok] Tuent 1.5x plus de paysans et abiments 1.5x plus les bâtiments lors de guerre
+  [ok] Maxpop augmentée de 10%
+  [ok] Une tente peut garder 2x unités de plus
+
+ Démons:
+  [ok] +1 guerres
+  [ok] Puissance min attaquable réduit
+	+2+0+2+0
+
+ Elfes:
+  [ok] Peut directement construire une deuxième province
+  [ok] Vitesse de guerre diminuée
+  [ok] Couts en pierre et bois des bâtiments diminués 
+
+ Rebelles:
+  [ok] Récère plus d'or en tuant des unités 
+  [ok] Tour une heure plus rapide
+	+1+1+1+0
+
+
+ Sorciers:
+  [ok] Certains sorts dés le départ
+  [ok] Augmentation de la magie tous les tours
+  [ok] Plus de protections
+

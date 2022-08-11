@@ -1,0 +1,313 @@
+body {
+	background:url(images/css/defaut/background_02.png); 
+	background-repeat : no-repeat;
+	background-position : top left;
+	background-attachment : fixed;
+	background-color: #EFEFEF;
+	margin: 0px;
+	padding: 0px;
+}
+
+div.container
+{
+	width: 900px;
+	padding: 0px;
+	height: auto;
+	border-collapse: collapse;
+	margin-bottom: 0px;
+}
+
+div.banner
+{
+	width: 900px;
+	border: 0px;
+	margin: 0px;
+	padding: 0px;
+	height: 150px;
+}
+
+div.naviguation
+{
+	width: 850px;
+	height: 35px;
+	text-align: center;
+	margin: auto;
+	background-repeat: no-repeat;
+	padding-top: 2px;
+	font-weight: bold;
+	font-size: 12pt;
+}
+
+div.main
+{
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+div.colonne
+{
+	width: 180px;
+	text-align: center;
+	float: left;
+}
+
+div.colonne_top
+{
+	background:url(images/css/defaut/entetepetit.png);
+	height: 25px;
+	width: 160px;
+	font-weight: bold;
+	font-size: 13pt;
+	vertical-align: center;
+}
+div.colonne_main
+{
+	background:url(images/css/defaut/contenupetit.png);
+	width: 160px;
+	background-repeat: repeat-y;
+	padding: 3px;
+	font-size: 10.1pt;
+}
+div.colonne_end
+{
+	width: 160px;
+	height: 25px;
+	
+	background:url(images/css/defaut/baspetit.png);
+	background-repeat: no-repeat;
+	
+	padding: 0px;
+	margin: 0px;
+}
+
+div.mainbox
+{
+	float: left;
+	width: 680px;
+	height: auto;
+	text-align: center;
+	margin: 0px;
+	margin-left: 20px;
+	padding: 0px;
+}
+
+div.footer
+{
+	width: 900px;
+	text-align: center;
+	font-size: 11pt;
+	border-top: 1px solid black;
+	background-color: #620;
+	color: #fff;
+}
+div.footer a
+{
+	color: #d20;
+}
+
+
+/*   ------------- LES TABLEUX ---------- */
+	/*   GRAND BOUCLIER   */
+	table.newtable {
+		width:600px;
+		border: 0px;
+		border-collapse: collapse;
+		text-align: center;
+	}
+		td.newtitre {
+			width:600px;
+			font-weight: bold;
+			background:url(images/css/defaut/entetelarge.png);
+			padding: 5px 0px;
+			text-align: center;
+			line-height: 20px;
+		}
+		td.newcontenu {
+			width:600px;
+			background: url(images/css/defaut/contenularge.png);
+			font-size: 14px;
+			padding: 0px 5px;
+			text-align: center;
+		}
+		td.newfin {
+			width:600px;
+			background: url(images/css/defaut/baslarge.png);
+			height: 27px;
+			font-size: 14px;
+			padding: 0px 5px;
+			text-align: center;
+		}
+	
+	/*    TALEAUX  INTERNES    */
+	table.newsmalltable {
+		width: 560px;
+		border: none;
+		margin-left:auto;
+		margin-right:auto;
+		border-collapse: collapse;
+	}
+	table.newsmalltable th {
+		background:url('images/css/defaut/entete.png');
+		text-align: center;
+		border: 1px solid black;
+		font-weight: bold;
+	}
+
+	table.newsmalltable td {
+		/*background: #CECECE;*/
+		background:url('images/css/defaut/in.png');
+		text-align: left;
+		font-size: 12px;
+		border: 1px solid black;
+		padding: 1px 4px;
+	}
+	table.shootbox {
+		width:560px;
+		border: none;
+		text-align: left;
+		min-width: 560px;
+	}
+
+	/* TABLEAU GENERAL D'AFFICHAGE */
+	table.maintable {
+		width:790px;
+		border:0px;
+	}
+	td.colonne{
+		width:160px;
+		border-collapse:collapse;
+		max-width:160px;
+		/*border-right: 1px solid black;*/
+		padding: 2px;
+		margin: 0px;
+	}
+	td.header {
+		width: 780px;
+		/*background-color:#DDDDDD;*/
+		/*border: 1px solid #0D0D0D;*/
+		min-width: 800px;
+		font-size: 12px;
+	}
+	td.footer {
+		width: 780px;
+		background-color:#DDDDDD;
+		border: 1px solid #0D0D0D;
+		min-width: 800px;
+		font-size: 12px;
+	}
+	td.mainbox{
+		background-color:#EFEFEF;
+		width:auto;
+	}
+
+/*    DIV    (Boites de naviguation)   */
+div.petiteboite {
+	width:160px;
+	border: 1px black;
+	border-collapse: collapse;
+	text-align: center;
+}
+	div.petittitre {
+		font-weight: bold;
+		background:url(images/css/defaut/entetepetit.png);
+		height: 30px;
+		max-height: 30px;
+		text-align: center;
+		margin-top: auto;
+		margin-bottom: auto;
+		line-height: 30px;
+	}
+	div.petitcontenu {
+		background: url(images/css/defaut/contenupetit.png);
+		font-size: 13px;
+		text-align: center;
+	}	
+	div.petitefin {
+		background: url(images/css/defaut/baspetit.png);
+		height: 27px;
+		text-align: center;
+		font-size: 13px;
+	}
+
+
+/*    TEXT ET MISE EN FORME   */
+span.titre {
+	font-weight: bold;
+	font-size: 14px;
+}
+span.info {
+	color : red ;
+	font-weight: italic;
+	font-size: 12px;
+	font-family: Arial,Helvetica;
+}
+span.avert {
+	color : red ;
+	font-weight: bold;
+}
+img {
+	border: 0px;
+}
+
+
+/*    FORMULAIRES    */
+textarea {
+	border: 1px dotted #000;
+	background: #E2E2E2;
+}
+input {
+	border: 1px dotted #000;
+	background: #E2E2E2;
+}
+select {
+	/*border: 1px dotted #000;*/
+	background: #E2E2E2;
+}
+
+
+
+/*     LIENS ET LEURS PARAMÈTRES      */
+a:link {color:#0000AA; text-decoration:none;}
+a:hover {color:#000000; text-decoration:none;}
+a:visited {color:#0000AA; text-decoration:none;}
+a:active {color:#000000; text-decoration:none;}
+
+
+
+/* MODE DEBUG (admin seulement) */
+div.requete {/* Les requêtes */
+	background: white;
+	font-size: 12px;
+	width: 14px;
+	height: 12px;
+	border: 1px black solid;
+	color: black;
+	margin-right:2px;
+	overflow: hidden;
+	float: left;	
+}
+	div.requete:hover {
+		width: auto;
+		height: auto;
+		overflow: show;
+		margin-right: 2px;
+	}
+	
+fieldset
+{
+	border: 1px solid black;
+}
+
+legend
+{
+	font-weight: bold;
+}
+
+label {
+	display:block;
+	width:250px;
+	text-align: left;
+	float: left;
+	margin: 0px;
+	padding: 0px;
+}

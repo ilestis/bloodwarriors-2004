@@ -1,0 +1,7 @@
+<strong>Or, Nourriture, Pierre, Bois, Magie, le secret des ressources?</strong><br />
+:: Ce sont les 5 ressources sur Blood Warriors. Vous en aurez besoin pour accomplire les constructions, les unités, etc...
+<br /><br />
+
+<strong>Cases?</strong><br />
+:: Avec la version 3.0 est apparu la notion de cases. Votre province dispose d'un certain nombre de cases en total (le 3ème chiffre). Sur ces cases, X sont utilisables (le premier chiffre), et Y sont inutilisables (le 2ème chiffre). Vous pouvez transformer ces cases en cases utilisable avec la [Ferme][Village], et en acheter de nouvelles avec la [Maçonnerie][Ville].
+<br /><br />

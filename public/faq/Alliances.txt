@@ -1,0 +1,5 @@
+<strong>Qu'est-ce qu'une alliance?</strong><br /> :: Une alliance est un regroupement de joueur. Une alliance possède un dirigeant. <br /><br /> 
+
+<strong>Comment créer une alliance?</strong><br /> :: Il faut construire le bâtiment [Auberge], et payer une certaine somme, ou être Rebelle. <br /><br /> 
+
+<strong>À quoi sert les alliances?</strong><br /> :: Un joueur étant dans une alliance sera moins succeptible d'être attaquer si son assaillant est sans alliance. Des pactes peuvent être déclarés entre les alliances. <br /><br />

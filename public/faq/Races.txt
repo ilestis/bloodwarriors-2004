@@ -1,0 +1,12 @@
+<strong>Qu'est-ce qu'une race?</strong><br />
+:: Dans Blood Warriors, il existe 6 races différentes. Les Anges, les Barbares, les Démons, les Elfes, les Rebelles et les Sorciers. Chaque Race possède des caracteristiques spécials. 
+<br /><br />
+
+<strong>Quelles sont les caracteristiques?</strong><br />
+:: Anges: Les unités ont un bonus +4 en endurence<br />
+:: Barbares: Leur limite de population est augmentée de 20%<br />
+:: Démons: Les unités ont un bonus +4 en force<br />
+:: Elfes: Les bâtiments coutent 10% de moins de pierre et pareil pour le bois.<br />
+:: Rebelles: Ils peuvent créer une alliance des le début, et pour un coût réduit.<br />
+:: Sorciers: Chaque nuit, leurs magie est augmentée de 10%
+<br /><br />

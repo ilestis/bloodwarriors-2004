@@ -1,0 +1,15 @@
+table.table {
+	border: 1px solid black;
+}
+
+table.table th {
+	font-weight: bold;
+	text-align: left;
+	background-color: #99CC00;
+	color: #000;
+}
+
+table.table td {
+	background-color: #E7FF9B;
+	color: #000;
+}

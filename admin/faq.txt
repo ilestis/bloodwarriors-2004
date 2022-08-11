@@ -1,0 +1,137 @@
+<table class="newsmalltable">
+<tr><th>LA FAQ</th></tr>
+<tr><td><center>Foire Aux Questions</center></td></tr>
+</table>
+
+<br>
+
+<table class="newsmalltable">
+<tr><th>LES BÂTIMENTS</td></tr>
+<tr><td><center>
+-Est-ce qu'on peut construire plusieurs fois un bâtiment, et ,si oui, y'a t'il une limite?<br />
+-> Non, on ne peut construire qu'une seule fois un bâtiment. Cependant, un on peut construire plusieurs bâtiments à la fois.</td></tr>
+
+<tr><td><center>
+-J'essaye de construire un bâtiment mais il me dit qu'il me manque des ressources alors que j'en aie assez.<br/>
+->Le nombre de paysans c'est le nombre de paysans disponibles qu'il vous faut. Assurez-vous d'avoir le nombre correct.</td>
+</tr>
+</table>
+
+<br>
+
+<table class="newsmalltable">
+<tr><th>LES PAYSANS</td></tr>
+<tr>
+	<td><center>
+	-Si l'on met trois paysans pour s'accoupler, Qu'est-ce qui en sort?<br />
+	-> On ne peux mettre qu'un nombre pair de paysans au foyer.
+	</center></td>
+</tr>
+<tr>
+	<td><center>
+	-Si je mets 20 paysans dans la mine, combien d'or aurai-je en plus au tour suivant?<br />
+	-20 or. C'est la même chose pour toutes les ressources.
+	</center></td>
+</tr>
+</table>
+
+<br>
+
+<table class="newsmalltable">
+<tr><th>LES UNITÉS</th></tr>
+<tr>
+	<td><center>-Que représantent les quatre chiffres des unités?<br />
+	->Le premier représente la force. Le deuxième l'endurance. Le troisième l'attaque et le quatrième la défense.<br />
+	Lorsqu'une unité attaque, sa puissance offensive est la force et l'attaque, et sa puissance défensive est son endurance.<br />
+	Lorsqu'une unité défend, sa puissance offensive est sa force, et sa puissance défensive est son endurance et sa défense.<br />
+	</center></td>
+</tr>
+<tr>
+	<td><center>-Comment marche l'entretien?<br />
+	->Chaque jour à cinq heure du matin (heure GMT+1). Le coût de vos unités sont additionnés et arrondi au suppérieur. Votre or est réduite de ce nombre. Si vous ne possedez pas assez d'or, certaines unités sont détruires.
+	</center></td>
+</tr>
+</table>
+
+<br>
+
+
+<table class="newsmalltable">
+<tr><th>LES GUERRES</td></tr>
+<tr>
+	<td><center>
+	-Où fait-on les unités de combat?<br/>
+	->Il faut avoir construit le fort. Une fois celui-ci construit, un lien "Fort" apparaitera dans la barre de naviguation.
+	</center></td>
+</tr>
+
+<tr>
+	<td><center>
+	-Comment attaque-t-on?<br/>
+	->Une fois le fort construit et les unités engagées, apparaîtra sous "Guerres"  le(s) nom(s) du(des) héros(s) que vous pouvez attaquer.
+	</center></td>
+</tr>
+<tr>
+	<td><center>
+	-Peut-on se faire attaquer même si l'on  ne posséde pas de fort?<br/>
+	->Oui, on peut se faire attaquer par n'importe qui, à condition que le héros qui attaque ne possède pas plus de cota de puissance comparé à vous par rapport au cota permit.
+	</center></td>
+</tr>
+<tr>
+	<td><center>
+	-Que ce passe-t'il lors des guerres?<br />
+	->L'attaquant attaque avec les unités sélectionnées. Le defenseur défendera avec ses unités qui ont le sacrifice. Si l'attaquant gagne la guerre, il volera des ressources du défenseur. Les unités peuvent être détruire lors des guerres, mais un joueur qui perd une guerre ne se fera pas détruire ses bâtiments.
+	</center></td>
+</table>
+
+<br>
+
+<table class="newsmalltable">
+<tr><th>MON COMPTE</th></tr>
+<tr>
+	<td><center>
+	-Comment puis-je changer de guilde?<br />
+	->Il faut supprimer votre compte et vous réinscrire.
+	</center></td>
+</tr>
+<tr>
+	<td><center>
+	-Comment puis-je changer mon pseudo?<br />
+	->Cette fonction n'est pas disponnible.<br />
+	</center></td>
+</tr>
+<tr>
+	<td><center>
+	-Comment puis-je supprimer mon compte?<br />
+	->Envoyez un message privé à un admin ou un modérateur.
+	</center></td>
+</tr>
+</table>
+
+<br>
+
+<table class="newsmalltable">
+<tr><th>ROYAUME</td></tr>
+<tr>
+	<td><center>
+	-Quelles sont les spécialités des royaumes?<br />
+	-> Chaque royaume à sa propre spécialité au niveau des unités, et d'autres valeurs.<br>
+	Les Anges ont un grand bonus dans la défense de leurs unités!<br>
+	Les Barbares ont la limite de population est augmentée de 20%!<br>
+	Les Démons ont un grand bonus dans l'attaque de leurs unités!<br>
+	Les Elfes construisent les bâtiments 30% moins cher en bois et en pierre, et peuvent lancer des attaques en 1 jour!<br>
+	Les Rebelles ont le coût de la création d'alliance réduit de moitié, et peuvent en créer / rejoindre des le début du jeu!<br>
+	Les Sorciers ont leurs revenu de magie augmenté de 20% chaque tour! Et on la possibilité de lancer des sorts de faible niveau des le départ!
+	</center></td>
+</tr>
+</table>
+
+<br>
+
+<table class="newsmalltable">
+<tr><th>AUTRES</td></tr>
+<tr><td><center>-Qui est la meilleure correctrice de BW?
+<br/>-> La seule, l'unique TDQ (qui c'est cassée le cul à corriger la FAQ)</td></tr>
+<tr><td><center>-Si je repère un bug,que dois-je faire?
+<br/>-> Postez sur le forum ou bien demandez de l'aide a un de vos Administrateur,en priorité a Sam qui fera de son mieux avec les autres admin pour trouver la solution a votre probleme (14h/24 service depannage Sam: sam_lejardinier@hotmail.com)</td></tr>
+</table>

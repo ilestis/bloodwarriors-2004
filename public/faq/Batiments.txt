@@ -1,0 +1,11 @@
+<strong>Qu'est-ce qu'un bâtiment?</strong><br />
+:: Les bâtiments sont des infrastructures que l'on peut construire. Chaque bâtiment a sa spécialité, ce qui rend chaque bâtiment unique. Certains bâtiments ne sont pas disponnible directement. L'on ne peut construire qu'une fois un bâtiment, à moins que celui-ci se fasse détruire.
+<br /><br />
+
+<strong>Combien coûte un bâtiment?</strong><br />
+:: Chaque bâtiment demande des ressources [or, nourriture, bois, pierre], des paysans disponnibles, un certain temps de construction et un nombre de case nécessaire pour le construire.
+<br /><br />
+
+<strong>Commen fonctionne les points de vie et la réparation?</strong><br />
+:: Chaque bâtiment dispose d'une jauge de vie. Quand cette jauge n'est plus remplie au maximum, il est possible d'assigner des paysans pour réparer le bâtiment. Pour réparer un bâtiment d'un point, il faut engager 1 paysan disponnible, 1 unité de pierre, 1 unité de bois, ainsi que 5minutes. Il est possible d'assigner plusieurs paysans en même temps. Dans ce cas le temps nécessaire s'additionne.
+<br /><br />

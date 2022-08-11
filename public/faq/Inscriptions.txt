@@ -1,0 +1,15 @@
+<strong>Suis-je obligé de mettre mon nom et prénom?</strong><br />
+:: Si vous vous inquiétez pour vos données personnelles, elles ne sont pas distribuée à qui quonque. Seules les administrateurs peuvent voir ces données. Nous utilisons ces données en cas de doute sur un double compte (même adresse ip), et en cas de perte de mot de passe.
+<br /><br />
+
+<strong>Quel est la différence entre le pseudo et le login?</strong><br />
+:: Le Pseudo est votre pseudonime que tout le monde pourra voir. Votre login est votre "nom" qui est demandé pour vous connecter. C'est une question de sécurité. Vous pouvez avoir le même Pseudo que le login, mais il est conseillé d'avoir une valeure différentre pour ces deux champs.
+<br /><br />
+
+<strong>Que représente la province?</strong><br />
+:: Voir la section [Race].
+<br /><br />
+
+<strong>Comment se déroule l'inscription?</strong><br />
+:: Une fois le bouton [Envoyer] cliqué, votre demande d'inscription est enregistrée. Il faudra qu'un administrateur valide votre compte pour que celui-ci devienne actife. Une fois cela fait, vous recevrez un email confirmant votre activation. (Attention, l'email peut parfois être redirigé dans le dossier sPAM de votre boîte de couriels).
+<br /><br />

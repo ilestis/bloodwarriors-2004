@@ -1,0 +1,76 @@
+<?php
+//header
+include ('adminheader.php');
+
+//fonction de véricication
+function verif_niveau($mylvl, $neadlvl, $link, $name, $text)
+{
+	if($mylvl >= $neadlvl) return '<a href="index.php?p=admin_'.$link.'">'.$name.'</a><br />'.$text;
+	else return '&nbsp;';
+}
+
+
+//Nombre d'entrées dans les tables
+$inscriptions = $csql->numRows("SELECT id FROM inscriptions");
+$messages = $csql->numRows("SELECT id_message FROM `admin_messages` where `where` = '1'");
+$forums = $csql->numRows("SELECT id_message FROM `admin_messages` where `where` = '2'");
+	
+
+/* ------------------------------- */
+
+//le tableau admin
+echo "<table class=\"newsmalltable\">\n";
+echo "<tr>\n";
+echo "	<th>Gestion des joueurs</th>\n";
+echo "	<th>Gestion du jeu</th>\n";
+echo "	<th>Autre</th>\n";
+echo "</tr>\n";
+
+
+echo "<tr>\n";
+	echo "	<td>".verif_niveau($Joueur->acceslvl, $adminpage['new'], 'new', 'Validation des comptes','Il y a '.$inscriptions.' compte'.pluriel($inscriptions,'s').' à valider')."</td>\n";
+	echo "	<td>".verif_niveau($Joueur->acceslvl, $adminpage['messagesaison'], 'messagesaison', 'Modifier le message d\'acceuil', '')."</td>\n";
+	echo "	<td>&nbsp;</td>\n";
+echo "</tr>\n";
+
+echo "<tr>\n";
+	echo "	<TD>".verif_niveau($Joueur->acceslvl, $adminpage['messages'], 'administration&go=messages', 'Administrer les messages privés', 'Il y a '.$messages.' message'.pluriel($messages, 's').' à administrer')."</TD>\n";
+	echo "	<TD>".verif_niveau($Joueur->acceslvl, $adminpage['faq'], 'faq', 'FAQ','')."</TD>\n";
+	echo "	<TD>".verif_niveau($Joueur->acceslvl, $adminpage['niveaupouvoir'], 'niveaupouvoir', 'Arbre des accès', '')."</TD>\n";
+
+echo "</TR><TR>\n";
+
+	echo "	<TD>".verif_niveau($Joueur->acceslvl, $adminpage['forums'], 'administration&go=forums', 'Administrer les forums d\'alliance', 'Il y a '.$forums.' contribution'.pluriel($forums, 's').' à administrer')."</TD>\n";
+	echo "	<TD> </TD>\n";
+	echo "	<TD>".verif_niveau($Joueur->acceslvl, $adminpage['variable_dico'], 'variable_dico', 'Dictionnaire', '')."</TD>\n";
+
+echo "</TR><TR>\n";
+
+	echo "	<TD>".verif_niveau($Joueur->acceslvl, $adminpage['messagesprives'], 'messagesprives&go=sendall', 'Envoyer un message collectif', '')."</TD>\n";
+	echo "	<TD>".verif_niveau($Joueur->acceslvl, $adminpage['variable_batiment'], 'variable_batiment', 'Bâtiments', '')."</TD>\n";
+	echo "	<TD> </TD>\n";
+
+echo "</TR><TR>\n";
+
+	echo "	<TD>".verif_niveau($Joueur->acceslvl, $adminpage['variable_player'], 'variable_player', 'Niveau des joueurs', '')."</TD>\n";
+	echo "	<TD>Gestion des tours</TD>\n";
+	echo "	<TD> </TD>\n";
+
+echo "</TR><TR>\n";
+
+	echo "	<TD>&nbsp;</TD>\n";
+	echo "	<TD>".verif_niveau($Joueur->acceslvl, $adminpage['charte'], 'administration&go=charte', 'La Charte', '')."</TD>\n";
+	echo "	<TD>".verif_niveau($Joueur->acceslvl, $adminpage['journal'], 'journal', 'Journal des évenements', '')."</TD>\n";
+
+echo "</TR><TR>\n";
+
+	echo "	<TD>".verif_niveau($Joueur->acceslvl, $adminpage['messagesprives'], 'messagesprives&go=select', 'Visionner les messages privés', '')."</TD>\n";
+	echo "	<TD>".verif_niveau($Joueur->acceslvl, $adminpage['variable_saison'], 'variable_saison', 'Variables de la partie', '')."</td>\n";
+	echo "	<TD>".verif_niveau($Joueur->acceslvl, $adminpage['variable_newsadmin'], 'variable_newsadmin', 'News des admins', '')."</a></TD>\n";
+
+echo "</TR><TR>\n";
+
+	echo "	<TD> </TD>\n";
+	echo "	<TD>".verif_niveau($Joueur->acceslvl, $adminpage['variable_crea'], 'variable_crea', 'Gestion des unités', '')."</TD>\n";
+	echo '	<TD class="in"> </TD>';
+echo '</TR></TABLE>';
